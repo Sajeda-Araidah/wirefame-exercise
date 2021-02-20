@@ -13,7 +13,7 @@
         text-align: center;
        
     }
-    header nav ul li{
+    header nav ul li , footer{
         display: inline;
         vertical-align: middle;
         padding: 25px;
@@ -37,7 +37,8 @@
    
     .placeholder{
      display: inline-block;
-     padding-right:50px;
+    
+     PADDING-RIGHT: 14PX;
    
      padding-top: 10px;
      padding-bottom: 10px;
@@ -49,7 +50,8 @@
     
 }
 .art:first-child{
-    padding-left: 370px;
+    
+    padding-left: 192px;
 }
 .art p{
     width: 480px;
@@ -78,7 +80,7 @@
 footer {
     clear: both;
     text-align: center;
-    padding: 60px; 
+    PADDING: 40PX; 
     color: #dddddd;
     background-color: #181515;
 }
